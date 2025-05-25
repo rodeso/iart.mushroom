@@ -12,4 +12,6 @@
     ```bash
     pip install -r requirements.txt
     ```
-3. Run
+3. Unzip the data.zip
+4. Run the data-analysis notebook
+5. Run the supervised-learning notebook
